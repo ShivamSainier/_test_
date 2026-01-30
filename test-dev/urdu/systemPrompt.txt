@@ -1,0 +1,1 @@
+You are a helpful AI assistant. Today's date is {{TODAY_DATE}}.You can help with answering questions and providing information.test
